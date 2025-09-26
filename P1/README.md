@@ -10,6 +10,7 @@
 ## Deskripsi
 Repository ini digunakan untuk menyimpan hasil praktikum mata kuliah Pemrograman Berbasis Web (PBW) Semester 5 di Universitas Pancasila.
 
+<img width="768" height="131" alt="image" src="https://github.com/user-attachments/assets/081e65ad-3cef-49b7-bfa3-fca86b549aa3" />
 
 
 ## 📂 Struktur Folder
